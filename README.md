@@ -6,7 +6,7 @@
 - Lidia Aprilia Putri (2209116041)
 
 ## Deskripsi Project 📝
-- Sistem Pengelolaan Jadwal Kereta Api merupakan sebuah aplikasi berbasis Java yang dirancang untuk mengelola informasi mengenai jadwal perjalanan kereta api. Pada program ini, Admin memiliki akses untuk Create, Read, Update, dan Delete data karyawan dan jadwal kereta, sedangkan untuk Penumpang, hanya dapat melihat jadwal kereta. Selain itu, aplikasi ini menggunakan database MySQL untuk menyimpan data-data seperti data karyawan, jadwal kereta, penumpang, dan data admin sendiri. 
+- Sistem Pengelolaan Jadwal Kereta Api merupakan sebuah aplikasi berbasis Java yang dirancang untuk mengelola informasi mengenai jadwal perjalanan kereta api. Pada program ini, Admin memiliki akses untuk create, read, delete jadwal kereta, dan read data karyawan. Sedangkan untuk Penumpang, hanya dapat melihat/read jadwal kereta. Selain itu, aplikasi ini menggunakan database MySQL untuk menyimpan data-data seperti data karyawan, jadwal kereta, penumpang, dan data admin sendiri. 
 
 ## Flowchart 📈
 ![Untitled Diagram drawio](https://github.com/PA-PBO-KELOMPOK-2-Project-Akhir/PA-PBO-Kelompok-2/assets/126661491/249991ab-51b5-44f9-bf44-f631b8a67b0f)
