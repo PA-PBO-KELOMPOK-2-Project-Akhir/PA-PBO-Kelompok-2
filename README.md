@@ -3,7 +3,7 @@
 
 ##### Nama Anggota
 ##### Silva Jen Retno (2209116019)
-##### Lidia Apriliani (2209116041)
+##### Lidia Aprilia Putri (2209116041)
 
 ### SISTEM PENGELOLAAN PENJADWALAN KERETA API
 
